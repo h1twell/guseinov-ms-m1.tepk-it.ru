@@ -11,7 +11,7 @@
             </div>
         @endif
 
-        <h1 class="text-center mb-5">Список продукции</h1>
+        <h1 class="text-center mb-5">Продукция</h1>
         <div class="text-center">
             <a href="{{ route('products.create') }}" class="btn btn-success m-3">Добавить товар</a>
         </div>
